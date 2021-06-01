@@ -1,4 +1,6 @@
-### Hi there 👋
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white"/><img alt="React" src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=React&logoColor=white"/>
+
+### Hi, I'm Laura 👋
 
 <!--
 **lauravandyke/lauravandyke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
