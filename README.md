@@ -1,4 +1,4 @@
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white"/><img alt="React" src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=React&logoColor=white"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=JavaScript&logoColor=yellow"/><img alt="React" src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=React&logoColor=white"/>
 
 ### Hi, I'm Laura 👋
 
